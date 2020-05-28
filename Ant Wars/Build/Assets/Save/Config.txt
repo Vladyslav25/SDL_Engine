@@ -1,0 +1,12 @@
+BlockWidth:48
+BlockHeight:48
+BlockAtlasWidth:48
+BlockAtlasHeight:48
+Gravity:9810
+PlayerJump:1000
+PlayerSrcRectWidth:96
+PlayerSrcRectHeight:89
+BulletSpeed:250000
+MoveEnemyWidth:32
+MoveEnemyHeight:32
+MoveEnemySpeed:125000
